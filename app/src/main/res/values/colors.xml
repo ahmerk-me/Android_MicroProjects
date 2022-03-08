@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#909090</color>
+    <color name="hintColor">#909090</color>
+    <color name="textColorBlack">#101010</color>
+    <color name="textColorGray">#262424</color>
+    <color name="textColorWhite">#ffffff</color>
+    <color name="textColor">#0f1833</color>
+    <color name="textColor1">#dfc078</color>
+    <color name="textColor2">#ff5722</color>
+    <color name="textColor3">#707070</color>
+    <color name="textColor4">#5c5c5c</color>
+    <color name="bgColor">#ffffff</color>
+    <color name="address_default">#5C2032</color>
+    <color name="address1">#CE54D8</color>
+    <color name="address2">#2B8BDE</color>
+    <color name="address3">#1bd1b5</color>
+    <color name="address4">#efc71f</color>
+    <color name="address5">#cc5516</color>
+    <color name="homeTabDefault">#D6D5D5</color>
+    <color name="ic_launcher_background">#2a2a2a</color>
+
+</resources>
