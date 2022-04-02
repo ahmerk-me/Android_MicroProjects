@@ -9,7 +9,7 @@
     <color name="textColorGray">#262424</color>
     <color name="textColorWhite">#ffffff</color>
     <color name="textColor">#0f1833</color>
-    <color name="textColor1">#dfc078</color>
+    <color name="textColor1">#001B00</color>
     <color name="textColor2">#ff5722</color>
     <color name="textColor3">#707070</color>
     <color name="textColor4">#5c5c5c</color>
@@ -22,5 +22,6 @@
     <color name="address5">#cc5516</color>
     <color name="homeTabDefault">#D6D5D5</color>
     <color name="ic_launcher_background">#2a2a2a</color>
+    <color name="transparent">#002A2A2A</color>
 
 </resources>

@@ -6,7 +6,8 @@
     android:background="@drawable/border_black"
     android:gravity="center_vertical"
     android:orientation="horizontal"
-    android:padding="15dp">
+    android:padding="15dp"
+    android:layout_marginBottom="15dp">
 
     <TextView
         android:id="@+id/tv_title"

@@ -148,6 +148,10 @@ open class HomeFragment() : Fragment() {
         hm.title = "Date Time"
         homeArrayList.add(hm)
 
+        hm = HomeModel()
+        hm.title = "Custom EditText View"
+        homeArrayList.add(hm)
+
         setHomeList()
     }
 
@@ -174,6 +178,8 @@ open class HomeFragment() : Fragment() {
         when(position) {
 
             0 -> return DateTimeFragment.newInstance(act)
+
+            1 -> return CustomEditTextFragment.newInstance(act)
         }
 
         return HomeFragment.newInstance(act)

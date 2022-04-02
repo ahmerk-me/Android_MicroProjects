@@ -521,6 +521,7 @@
     <string name="WelcomeLabel">Welcome User, please select a project from the list below:</string>
     <string name="DateTimeLabel">Date Time</string>
     <string name="ResultDate">Result Date: aaa</string>
+    <string name="CustomET">Custom Edit Text</string>
 
 
 </resources>
